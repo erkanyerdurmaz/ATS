@@ -9,6 +9,7 @@
 * Springboot
 * Maven
 * Hibernate
+* JUnit 5
 * Mssql 
 * Jpa
 * Vue.js
